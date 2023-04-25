@@ -1,6 +1,5 @@
 MYRON LARRY DSOUZA
-x=10
-variable = TRUE
+Sai Vamsi Appari
 Yuhao
 #Ben
 "hello my name is Radhika"
